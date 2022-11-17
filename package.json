@@ -38,7 +38,7 @@
     "@shopify/koa-shopify-auth": "3.1.61",
     "@npmcli/git": "1.0.0",
     "@ionic/core": "4.1.0",
-    "@hapi/hoek": "9.0.0",
+    "@hapi/hoek": "9.0.4",
     "@hapi/ammo": "4.0.0",
     "@hapi/accept": "3.2.0",
     "@grpc/grpc-js": "0.1.0",
