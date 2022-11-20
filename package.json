@@ -46,7 +46,7 @@
     "@factor/cli": "1.1.0",
     "@cubejs-backend/api-gateway": "0.11.0",
     "@commercial/subtext": "5.1.1",
-    "@chainsafe/libp2p-noise": "5.0.0",
+    "@chainsafe/libp2p-noise": "5.0.3",
     "@aws-crypto/decrypt-node": "2.0.0",
     "@aws-crypto/decrypt-browser": "2.0.0",
     "@finastra/nestjs-proxy": "0.4.0"
