@@ -43,7 +43,7 @@
     "@hapi/accept": "3.2.0",
     "@grpc/grpc-js": "0.1.0",
     "@fastify/websocket": "5.0.0",
-    "@factor/cli": "1.1.0",
+    "@factor/cli": "3.0.1",
     "@cubejs-backend/api-gateway": "0.11.0",
     "@commercial/subtext": "5.1.1",
     "@chainsafe/libp2p-noise": "5.0.0",
