@@ -1358,7 +1358,7 @@
   resolved "https://registry.npmmirror.com/@commercial/bourne/-/bourne-1.3.2.tgz#21c9ac01a362025f9418ef0df6f476a3a102753c"
   integrity sha512-c89m9IVaWhzk3WyISwPKF+7iuzvImzQreG015uXwK+L1y8QUEDbftP1PjG+HW/TLde6IMGFjahcjqT+GY79XEg==
 
-"@commercial/content@3.x.x", "@commercial/content@^3.1.1":
+"@commercial/content@^3.1.1":
   version "3.1.1"
   resolved "https://registry.npmmirror.com/@commercial/content/-/content-3.1.1.tgz#09635a094370a8f46b282029210024fe2511eba8"
   integrity sha512-1+ZR83KJUYerZRrCNoqmpniupuWTaWVOt7m7NpI2ht3JMmGiqC/U50tDQWug058vHHuvBnUPIpc0/r/RafqzRQ==
@@ -1389,14 +1389,14 @@
     "@commercial/hoek" "4.x.x"
     "@commercial/nigel" "2.x.x"
 
-"@commercial/subtext@5.1.1":
-  version "5.1.1"
-  resolved "https://registry.npmmirror.com/@commercial/subtext/-/subtext-5.1.1.tgz#0f57e78af21ca24a4370c636d3fece2efd6866c6"
-  integrity sha512-IWLy5gJAUwvk5HRv0VA4/SN+HmXZPdWVrlWiSeuoNXNneF8AAUPff/ZPFTcC/FKua5gvxAguUccOHUogg2HbmA==
+"@commercial/subtext@5.1.2":
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/@commercial/subtext/-/subtext-5.1.2.tgz#7956ab9fbe64620915e6e87a8434f21bbaf45377"
+  integrity sha512-2jdaiRgshT7iTEthfSEfN0QUCHpAKQ82vBMFWBPMvWy0Eo0e/5wVMJ5o2ivnmSaDqUrKZljZPTqA7XXRWwtvWQ==
   dependencies:
     "@commercial/boom" "5.x.x"
     "@commercial/bourne" "1.x.x"
-    "@commercial/content" "3.x.x"
+    "@commercial/content" "^3.1.1"
     "@commercial/hoek" "4.x.x"
     "@commercial/pez" "2.x.x"
     "@commercial/wreck" "12.x.x"
